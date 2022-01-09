@@ -99,7 +99,7 @@ class Item(BaseModel):
     adyen_version: str
     adyen_key: str
 
-,.
+
 @app.post("/adyen/")
 async def adyen(item: Item):
     cc, mes, ano, cvv = adyen_enc(
