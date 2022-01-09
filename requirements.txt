@@ -1,6 +1,7 @@
 fastapi==0.71.0
 motor==2.5.1
-Py_Adyen_Encrypt==0.0.1
+gitpython
+git+https://github.com/66niko99/py-adyen-encrypt.git
 pydantic==1.9.0
 uvicorn==0.12.3
 aiofiles==0.6.0
