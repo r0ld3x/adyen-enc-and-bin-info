@@ -1,6 +1,6 @@
 # Bin Info And Adyen Cse Enc Python
 
-> I api for getting bin info and getting encrypted card details for adyen.
+> api for getting bin info and getting encrypted card details for adyen.
 
 ![GitHub stars](https://img.shields.io/github/stars/r0ld3x/adyen-enc-and-bin-info)
 ![GitHub forks](https://img.shields.io/github/forks/r0ld3x/adyen-enc-and-bin-info)
