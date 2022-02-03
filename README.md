@@ -50,7 +50,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-#### • MADE By > [Roldex](https://github.com/r0ld3x)
+#### • MADE BY > [Roldex](https://github.com/r0ld3x)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
