@@ -1,6 +1,6 @@
 {
     "name": "adyen-enc-and-bin-info",
-    "description": "This app does one little thing, and does it well.",
+    "description": "api for getting bin info and getting encrypted card details for adyen.",
     "keywords": [
       "python",
       "bin checker",
