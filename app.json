@@ -1,0 +1,18 @@
+{
+    "name": "adyen-enc-and-bin-info",
+    "description": "This app does one little thing, and does it well.",
+    "keywords": [
+      "python",
+      "bin checker",
+      "cse adyen"
+    ],
+    "website": "https://adyen-enc-and-bin-info.herokuapp.com",
+    "repository": "https://github.com/r0ld3x/adyen-enc-and-bin-info",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/092017/untitled-1_4.png?DAUezIwEogqvq3raF1NmzmUA1uUSkFgy&itok=VKWYdpTb",
+    "image": "heroku/python",
+    "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-python"
+      }
+    ]
+  }
