@@ -62,7 +62,7 @@ curl -X 'POST' \
   "adyen_version": "_0_1_25"
 }'
 ```
-> Request URL: https://adyen-enc-and-bin-info.herokuapp.com/bin/458578
+> Request URL: https://adyen-enc-and-bin-info.herokuapp.com/adyen
 __Return__:
 ```
 {
