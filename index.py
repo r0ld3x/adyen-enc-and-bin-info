@@ -30,7 +30,7 @@ def adyen_enc(cc, mes, ano, cvv, ADYEN_KEY, adyen_version):
 
 
 app = FastAPI(debug=True, 
-              title="Bin lookup And Adyen Generator Ny Roldexverse.", 
+              title="Bin lookup And Adyen Generator By Roldexverse.", 
               redoc_url=None,
               description=" Feel free to use. made by @roldexverse for roldexverse subscribers.")
 
