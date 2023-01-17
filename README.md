@@ -27,10 +27,10 @@ uvicorn index:app
 **BIN INFO**:-
 ```curl
 curl -X 'GET' \
-  'https://adyen-enc-and-bin-info.herokuapp.com/bin/458578' \
+  'https://1c30-109-123-255-29.eu.ngrok.io/bin/458578' \
   -H 'accept: application/json'
 ```
-> Request URL: https://adyen-enc-and-bin-info.herokuapp.com/bin/458578
+> Request URL: https://1c30-109-123-255-29.eu.ngrok.io/bin/458578
 __Return__: 
 ```
 {
@@ -50,7 +50,7 @@ __Return__:
 **ADYEN ENC**:-
 ```curl
 curl -X 'POST' \
-  'https://adyen-enc-and-bin-info.herokuapp.com/adyen/' \
+  'https://1c30-109-123-255-29.eu.ngrok.io/adyen/' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
