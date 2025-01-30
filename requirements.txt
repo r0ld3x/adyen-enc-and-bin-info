@@ -1,11 +1,8 @@
-fastapi==0.71.0
+fastapi
 gitpython
-git+https://github.com/66niko99/py-adyen-encrypt.git
-pydantic==1.9.0
-uvicorn==0.12.3
-aiofiles==0.6.0
-python-multipart==0.0.5
-jinja2==2.11.2
+pydantic
+uvicorn
+jinja2
 dnspython
 cryptography
 pytz
